@@ -1,0 +1,2 @@
+# hatena-comments-disabler
+はてなブックマークのホッテントリページでブクマコメントへのリンクを消すためのTempermonkeyスクリプトです。
